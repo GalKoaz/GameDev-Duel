@@ -14,9 +14,8 @@ Itch.io: [https://galkoaz.itch.io/spaceship](https://galkoaz.itch.io/spaceship)
 
 * Each Player Have Life Points shows in the screen in front on each side, the goal to damge your opponent until they die.
 
-
-
 ----------------------------------
+
 <img src="https://i.ibb.co/YDM4KVG/1.png" alt="1" border="0">
 
 <img src="https://i.ibb.co/bRfRy1v/2.png" alt="2" border="0">
